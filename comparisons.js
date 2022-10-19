@@ -108,7 +108,8 @@ console.log(lovesToPlay && lovesDogPark);
 console.log(lovesToPlay || lovesToPlay);
 
 // Determine if the dog loves to play and is a puppy
-console.log(lovesToPlay && var age);
+console.log(lovesToPlay && < 1);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:
+// ANSWER:It was to determine if the dog logs to play which is true and is less than one which is true; 
+therefore, the answer with both be true.
