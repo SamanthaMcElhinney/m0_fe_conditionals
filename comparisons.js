@@ -59,24 +59,24 @@ console.log("is numberStudents less than or equal to 21?", numberStudents <= 21)
 
 console.log(4 < 9);
 // YOU DO: Explain.
-This will run 4 is less than 9 so it should log false.
+"This will run 4 is less than 9 so it should log false."
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-This will run 4 is less than 3 so this should log false.
+"This will run 4 is less than 3 so this should log false."
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-This will run 6 is greater than 2 so it shouyld log true.
+"This will run 6 is greater than 2 so it shouyld log true."
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-This will run 9 is not stricktly equal to 8 so it should log false. 
+"This will run 9 is not stricktly equal to 8 so it should log false."
 
 
 // #-------------------
@@ -108,8 +108,7 @@ console.log(lovesToPlay && lovesDogPark);
 console.log(lovesToPlay || lovesToPlay);
 
 // Determine if the dog loves to play and is a puppy
-console.log(lovesToPlay && < 1);
+console.log(lovesToPlay && age);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:It was to determine if the dog logs to play which is true and is less than one which is true; 
-therefore, the answer with both be true.
+// ANSWER:It was to determine if the dog logs to play which is true and is less than one which is true therefore, the answer with both be true."";
