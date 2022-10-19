@@ -11,19 +11,7 @@
   // if it is snowy, print "coat"
   // if it is icy, print "yak traks"
 
-var weather = "cloudy"
 
-if (weather === "sunny") {
-  console.log("sunscreen");
-} else if (weather === "rainy") {
-  console.log("umbrella");
-} else if (weather === "snowy") {
-  console.log("hat & gloves");
-} else if (weather === "icy") {
-  console.log("yak traks");
-} else {
-  console.log("good to go!");
-}
 
 // Experiment with manipulating the value held in variable 'weather'
 // to print something other than 'coat'
