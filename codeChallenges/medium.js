@@ -1,5 +1,5 @@
 var goodDrivingRecord = true;
-var age = 23;
+var age = 26;
 
 if (goodDrivingRecord === true && age > 25) {
   console.log = ("Yah! You get a discount");
