@@ -45,13 +45,11 @@ if (weather === "sunny") {
 var numQuarters = 0
 
 if (numQuarters === 0) {
-  console.log("I have enough money for a gumball");
-} else if (numQuarters === "2") {
   console.log("I don't have enough money for a gumball");
+} else if (numQuarters === "2") {
+  console.log("I have enough money for a gumball");
 }
 
-console.log("I have enough money for a gumball");
-console.log("I don't have enough money for a gumball");
 
 
 // #####################
