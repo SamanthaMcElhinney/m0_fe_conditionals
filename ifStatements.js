@@ -18,7 +18,7 @@ if (weather === "sunny") {
 } else if (weather === "rainy") {
   console.log("umbrella");
 } else if (weather === "snowy") {
-  console.log("coat");
+  console.log("coat and gloves");
 } else if (weather === "icy") {
   console.log("yak traks");
 } else {
