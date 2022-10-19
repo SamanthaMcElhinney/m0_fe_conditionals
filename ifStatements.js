@@ -11,7 +11,7 @@
   // if it is snowy, print "coat"
   // if it is icy, print "yak traks"
 
-var weather = "snowy"
+var weather = "cloudy"
 
 if (weather === "sunny") {
   console.log("sunscreen");
@@ -43,6 +43,12 @@ if (weather === "sunny") {
 // to make sure both conditions can be achieved.
 
 var numQuarters = 0
+
+if (numQuarters === 0) {
+  console.log("I have enough money for a gumball");
+} else if (numQuarters === "2") {
+  console.log("I don't have enough money for a gumball");
+}
 
 console.log("I have enough money for a gumball");
 console.log("I don't have enough money for a gumball");
