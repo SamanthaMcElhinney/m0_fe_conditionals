@@ -1,4 +1,3 @@
-[
 var goodDrivingRecord = true;
 var age = 26;
 
@@ -9,4 +8,4 @@ if (goodDrivingRecord === true && age > 25) {
 } else {goodDrivingRecord === false & age >25
   console.log = ("Try again when you're over 25 friend");
 }
-]
+
