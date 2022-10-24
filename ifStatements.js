@@ -11,6 +11,19 @@
   // if it is snowy, print "coat"
   // if it is icy, print "yak traks"
 
+  var weather = "sunny"
+
+  if (weather === "sunny") {
+    console.log("sunscreen");
+  } else if (weather === "rainy") {
+    console.log("umbrella");
+  } else if (weather === "snowy") {
+    console.log("coat");
+  } else if (weather === "icy") {
+    console.log("yak traks");
+  } else {
+    console.log("good to go!");
+  }
 
 
 // Experiment with manipulating the value held in variable 'weather'
@@ -32,9 +45,9 @@
 
 var numQuarters = 2
 
-if (numQuarters === 0) {
+if (numQuarters < 2) {
   console.log("I don't have enough money for a gumball");
-} else if (numQuarters === 2) {
+} else {
   console.log("I have enough money for a gumball");
 }
 
